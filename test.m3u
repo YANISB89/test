@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0 group-title="tv" ,ARTE
+#EXTINF:-1 group-title="Regional" ,ARTE
 https://d3223vg0o80ccf.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xn2vfltkhli08/907151eb-8b61-4c1f-82e7-89f1ab0a2721/0.m3u8
-#EXTINF:0 group-title="tv" ,LA 2
+#EXTINF:-1 group-title="Regional" ,LA 1
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr_720.m3u8
+#EXTINF:-1 group-title="Regional" ,LA 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/d0467560-45b1-4219-ac81-cf7c91691427/0.m3u8
-#EXTINF:0 group-title="tv" ,RAI 1
+#EXTINF:-1 group-title="Regional" ,RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:0 group-title="tv" ,RAI 2
+#EXTINF:-1 group-title="Regional" ,RAI 2
 https://ilglobotv-live.akamaized.net/channels/RAI2/events(1000)/RAI2-video=3499968.m3u8
-#EXTINF:0 group-title="tv" ,RAI 3
+#EXTINF:-1 group-title="Regional" ,RAI 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:0 group-title="tv" ,RDI
+#EXTINF:-1 group-title="News" ,RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_3000.m3u8
-#EXTINF:0 group-title="tv" ,TF1
+#EXTINF:-1 group-title="Regional" ,TF1
 https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5NTY3NzU4Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy90ZjFoZC9icm93c2VyLUhMUzgvIiwic2Vzc2lvbl9jZG5faWQiOiJhOTc3NWVlMzc0NDhjYzBiIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xMC4wLjIyOS4xOCIsInNlc3Npb25fdGltZW91dCI6MCwiYXVkIjoiNDEiLCJzb3VyY2VzIjpbMTAwXX0=._G-pBIrnhZoMjBwx39DvNuRllF3EeIGuAUu19NxriRDWxX6CWZKjMjt8ZhWKyezMcCSHKHMStxrWq_h8lyNYlA==/live/eds/tf1hd/browser-HLS8/tf1hd-avc1_700000=10000-mp4a_130400_fra=20000.m3u8
-#EXTINF:0 group-title="tv" ,TF1 SERIE FILM
-https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzY5NTY3NzYxIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9oZDEvYnJvd3Nlci1ITFM4LyIsInNlc3Npb25fY2RuX2lkIjoiNzM3YmFjNzBmYzlhOGVhYSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTAuMC4yMjkuMjIiLCJzZXNzaW9uX3RpbWVvdXQiOjAsImF1ZCI6IjQxIiwic291cmNlcyI6Wzg0XX0=.8woO5-q9L2gVdtflFadX4lI_3Kb08NlEohDHQzOPeUcEKett-kEFffHtt_S07VZX7uXPAiA7VLSLEPCcFhFrZw==/live/eds/hd1/browser-HLS8/hd1-avc1_1800000=10007-mp4a_128000_fra=20009.m3u8
 #EXTINF:-1 group-title="Documentary" ,100% DOCS
 https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,ADVENTURE EARTH
@@ -107,8 +107,6 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 group-title="Music" ,ADN
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 group-title="Music" ,ALPHA
-https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
 #EXTINF:-1 group-title="Music" ,FUTURE TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" ,INTER TV
@@ -139,8 +137,6 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 https://live.alawla.tv/hls/stream.m3u8
 #EXTINF:-1 group-title="News" ,AL JAZEERA
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="News" ,AL JAZEERA DOCUMENTARY
-https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="News" ,ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/HasBahCa.m3u8
 #EXTINF:-1 group-title="News" ,BBC ARABIC
@@ -189,103 +185,95 @@ https://d2ww7x6333b6qp.cloudfront.net/10507/88886006/hls/master.m3u8?ads.xumo_ch
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="News" ,PRESS TV ESPAÑOL (HISPAN TV)
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
-#EXTINF:-1 group-title="Regional" ,AFGHANISTAN - AFGHANISTAN INTERNATIONAL
+#EXTINF:-1 group-title="Regional" ,AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 group-title="Regional" ,BAHRAIN - BAHRAIN INTERNATIONAL
+#EXTINF:-1 group-title="Regional" ,BAHRAIN INTERNATIONAL
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,BAHRAIN - BAHRAIN TV
+#EXTINF:-1 group-title="Regional" ,BAHRAIN TV
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,BELGIUM - LA UNE
+#EXTINF:-1 group-title="Regional" ,LA UNE
 http://41.205.93.154/LA-UNE/mpegts
-#EXTINF:-1 group-title="Regional" ,CHINA - CCTV 1
+#EXTINF:-1 group-title="Regional" ,CCTV 1
 http://222.169.85.8:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$LR%E2%80%A2427%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF216%E3%80%8F
-#EXTINF:-1 group-title="Regional" ,CHINA - CGTN FRANÇAIS
+#EXTINF:-1 group-title="Regional" ,CGTN FRANÇAIS
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,EGYPT - ALARABY
+#EXTINF:-1 group-title="Regional" ,ALARABY
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,EGYPT - ALARABY 2
+#EXTINF:-1 group-title="Regional" ,ALARABY 2
 https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,ETHIOPIA - ADDIS TV
+#EXTINF:-1 group-title="Regional" ,ADDIS TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - 20 MINUTOS
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - 24H
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - 3CAT INFO
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - CANAL EXTREMADURA
+#EXTINF:-1 group-title="Regional" ,CANAL EXTREMADURA
 https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - CANAL MÁLAGA
+#EXTINF:-1 group-title="Regional" ,CANAL MÁLAGA
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - CANAL SUR
+#EXTINF:-1 group-title="Regional" ,CANAL SUR
 https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,FRANCE - CANAL9
+#EXTINF:-1 group-title="Regional" ,CANAL9
 https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
-#EXTINF:-1 group-title="Regional" ,GERMANY - ANIXE
+#EXTINF:-1 group-title="Regional" ,ANIXE
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 group-title="Regional" ,GERMANY - ARD ALPHA
+#EXTINF:-1 group-title="Regional" ,ARD ALPHA
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 group-title="Regional" ,GERMANY - ARD DAS ERSTE
+#EXTINF:-1 group-title="Regional" ,ARD DAS ERSTE
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 group-title="Regional" ,GERMANY - BR
+#EXTINF:-1 group-title="Regional" ,BR
 https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-#EXTINF:-1 group-title="Regional" ,GERMANY - RTL DE
+#EXTINF:-1 group-title="Regional" ,RTL DE
 https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-#EXTINF:-1 group-title="Regional" ,GREECE - ANT1
+#EXTINF:-1 group-title="Regional" ,ANT1
 https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/6415884360001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Regional" ,GREECE - ERT WORLD
+#EXTINF:-1 group-title="Regional" ,ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
-#EXTINF:-1 group-title="Regional" ,ITALY - LA 7
+#EXTINF:-1 group-title="Regional" ,LA 7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 group-title="Regional" ,ITALY - MEGA
+#EXTINF:-1 group-title="Regional" ,MEGA
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/Metadoseis/mega.m3u8
-#EXTINF:-1 group-title="Regional" ,JORDAN - AMMAN TV
+#EXTINF:-1 group-title="Regional" ,AMMAN TV
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-#EXTINF:-1 group-title="Regional" ,JORDAN - JORDAN TV
+#EXTINF:-1 group-title="Regional" ,JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8
-#EXTINF:-1 group-title="Regional" ,KUWAIT - KUWAIT TV
+#EXTINF:-1 group-title="Regional" ,KUWAIT TV
 https://cdn-globecast.akamaized.net/live/eds/kuwait_tv1/hls_roku/index.m3u8
-#EXTINF:-1 group-title="Regional" ,LEBANON - AL JADEED
+#EXTINF:-1 group-title="Regional" ,AL JADEED
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 group-title="Regional" ,LEBANON - LBCI
+#EXTINF:-1 group-title="Regional" ,LBCI
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:-1 group-title="Regional" ,MALI - ORTM 1
+#EXTINF:-1 group-title="Regional" ,ORTM 1
 http://69.64.57.208/ortm/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,MOLDOVA - MOLDOVA 1
+#EXTINF:-1 group-title="Regional" ,MOLDOVA 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 group-title="Regional" ,MOLDOVA - MOLDOVA 2
+#EXTINF:-1 group-title="Regional" ,MOLDOVA 2
 https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8
-#EXTINF:-1 group-title="Regional" ,MOROCCO - 2M
+#EXTINF:-1 group-title="Regional" ,2M
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 group-title="Regional" ,MOROCCO - AL JADEED
-http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 group-title="Regional" ,MOROCCO - AL RAYAN
+#EXTINF:-1 group-title="Regional" ,AL RAYAN
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Regional" ,MOROCCO - AL RAYAN AQADEEM
+#EXTINF:-1 group-title="Regional" ,AL RAYAN AQADEEM
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Regional" ,MOROCCO - AL WOUSTA
+#EXTINF:-1 group-title="Regional" ,AL WOUSTA
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,OMAN - OMAN TV
+#EXTINF:-1 group-title="Regional" ,OMAN TV
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Regional" ,QATAR - QATAR TV
+#EXTINF:-1 group-title="Regional" ,QATAR TV
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,ROMANIA - ANTENA 1
+#EXTINF:-1 group-title="Regional" ,ANTENA 1
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
-#EXTINF:-1 group-title="Regional" ,ROMANIA - CARAC 1
+#EXTINF:-1 group-title="Regional" ,CARAC 1
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
-#EXTINF:-1 group-title="Regional" ,ROMANIA - CARAC 2
+#EXTINF:-1 group-title="Regional" ,CARAC 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
-#EXTINF:-1 group-title="Regional" ,ROMANIA - CARAC 3
+#EXTINF:-1 group-title="Regional" ,CARAC 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,ROMANIA - CARAC 4
+#EXTINF:-1 group-title="Regional" ,CARAC 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
-#EXTINF:-1 group-title="Regional" ,RUSSIA - 2X2
+#EXTINF:-1 group-title="Regional" ,2X2
 https://liveovh011.cda.pl/enc117/2x2hdraw/2x2hdraw.m3u8
-#EXTINF:-1 group-title="Regional" ,SAUDI ARABIA - SAUDI TV
+#EXTINF:-1 group-title="Regional" ,SAUDI TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 group-title="Regional" ,UAE - ABU DHABI EMARAT
+#EXTINF:-1 group-title="Regional" ,ABU DHABI EMARAT
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="Regional" ,UAE - ABU DHABI TV
+#EXTINF:-1 group-title="Regional" ,ABU DHABI TV
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="Sports" ,ABU DHABI SPORT 1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
