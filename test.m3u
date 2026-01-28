@@ -1,4 +1,80 @@
 #EXTM3U
+#EXTINF:-1 group-title="Entertainment" ,MBC 5
+http://176.65.146.100:8033/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC 4
+http://176.65.146.100:8033/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC 3
+http://176.65.146.100:8033/play/a06d/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC Action
+http://176.65.146.100:8033/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC 2
+http://176.65.146.100:8033/play/a06f/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC MAX
+http://176.65.146.100:8033/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC Bollywood
+http://176.65.146.100:8033/play/a06h/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,MBC Drama
+http://176.65.146.100:8033/play/a06i/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Wanasah
+http://176.65.146.100:8033/play/a06k/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Canal+ Cinema
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Canal+
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" ,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Comedie+
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,CSTAR
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="Documentary" ,Discovery
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Kids" ,Disney
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" ,EuroSport2
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,France 2
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,France 3
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,France 4
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,France 5
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 group-title="Sports" ,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="Documentary" ,Histoire
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="News" ,LCI
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="Documentary" ,National Geo
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Paris Premiere
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="Entertainment" ,Teva
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="Kids" ,Tiji
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="Music" ,TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 tvg-id="PolsatViasatExplore.pl@SD" group-title="Documentary" ,Polsat Viasat Explore
+https://liveovh010.cda.pl/enc107/polsatviasatexplorehdraw/polsatviasatexplorehdraw.mpd
+#EXTINF:-1 tvg-id="PolsatViasatHistory.pl@SD" group-title="Documentary" ,Polsat Viasat History
+https://liveovh010.cda.pl/enc105/polsatviasathistoryhdraw/polsatviasathistoryhdraw.mpd
+#EXTINF:-1 tvg-id="PolsatViasatNature.pl@SD" group-title="Documentary" ,Polsat Viasat Nature
+https://liveovh010.cda.pl/enc104/polsatviasatnaturehdraw/polsatviasatnaturehdraw.mpd
+#EXTINF:-1 tvg-id="TVP1.pl@SD" group-title="Regional" ,TVP1
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD" group-title="News" ,TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" group-title="Regional" ,TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" group-title="News" ,TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt@SD" group-title="Regional" ,SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 tvg-id="TVI.pt@SD" group-title="Regional" ,TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 group-title="Entertainment" ,SIXX
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
 #EXTINF:-1 group-title="News" ,WELT
@@ -11,25 +87,21 @@ https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
 https://directes-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1 group-title="Kids" ,MR BEAN ANIME
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="KanalD.tr@SD" group-title="Entertainment" ,Kanal D
+#EXTINF:-1 group-title="Entertainment" tvg-id="KanalD.tr@SD" ,Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" group-title="Entertainment" ,Kanal D Drama
+#EXTINF:-1 group-title="Entertainment" tvg-id="KanalDDrama.tr@SD" ,Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,Earth Touch TV
-https://earthtouch-earthtouch-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" ,Love Pets
 https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="Strongman.us@UK" group-title="Sports" ,Strongman
+#EXTINF:-1 group-title="Sports" tvg-id="Strongman.us@UK" ,Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us@UK" group-title="Lifestyle" ,Tastemade
+#EXTINF:-1 group-title="Lifestyle" tvg-id="Tastemade.us@UK" ,Tastemade
 https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" ,Waterbear
-https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" ,Detective Conan
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f3e8ad2a8e8000077b013d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b107-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=165463a5-b9d3-452a-84d9-0cf94452227f
 #EXTINF:-1 group-title="Kids" ,Digimon Adventure
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e2-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d081da78-acbb-459e-9034-63720548296e
-#EXTINF:-1 tvg-id="DoraTV.us@France" group-title="Kids" ,Dora TV
+#EXTINF:-1 group-title="Kids" tvg-id="DoraTV.us@France" ,Dora TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ecb9524419b0007365a1c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e050350-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c938e920-2111-4877-9e36-97d7a0a0d005
 #EXTINF:-1 group-title="Entertainment" ,Mytime Movies
 https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -61,8 +133,6 @@ https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/
 https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Rakuten TV Films Famille
 https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8
-#EXTINF:-1 group-title="Entertainment" ,Rakuten TV Films Français
-https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Rakuten TV Films Romance
 https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Rakuten TV Films Thriller
@@ -77,17 +147,17 @@ https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" ,Televisa Telenovela Channel
 https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineNanar.fr@SD" group-title="Entertainment" ,Zylo Ciné Nanar
+#EXTINF:-1 group-title="Entertainment" tvg-id="CineNanar.fr@SD" ,Zylo Ciné Nanar
 https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.fr@SD" group-title="Entertainment" ,Zylo Ciné Western
+#EXTINF:-1 group-title="Entertainment" tvg-id="CineWestern.fr@SD" ,Zylo Ciné Western
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="EmotionL.fr@SD" group-title="Entertainment" ,Zylo Emotion' L
+#EXTINF:-1 group-title="Entertainment" tvg-id="EmotionL.fr@SD" ,Zylo Emotion' L
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" group-title="Entertainment" ,Zylo Fréquence Novelas
+#EXTINF:-1 group-title="Entertainment" tvg-id="FrequenceNovelas.fr@SD" ,Zylo Fréquence Novelas
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
-#EXTINF:-1 tvg-id="IntoCrime.fr@SD" group-title="Entertainment" ,Zylo Into Crime (1080p)
+#EXTINF:-1 group-title="Entertainment" tvg-id="IntoCrime.fr@SD" ,Zylo Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ScreamIN.fr@SD" group-title="Entertainment" ,Zylo ScreamIN
+#EXTINF:-1 group-title="Entertainment" tvg-id="ScreamIN.fr@SD" ,Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" ,RTL9
 http://151.80.18.177:86/RTL9/index.m3u8
