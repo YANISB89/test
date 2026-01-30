@@ -1,44 +1,4 @@
 #EXTM3U
-#EXTINF:0 ,ALGERIE TV3
-http://apk.arabic-ch.space/live/002/index.m3u8
-#EXTINF:0 ,ALGERIE TV5
-http://apk.arabic-ch.space/live/004/index.m3u8
-#EXTINF:0 ,ELBILADTV
-http://apk.arabic-ch.space/live/009/index.m3u8
-#EXTINF:0 ,ECHOUROUKTV
-http://apk.arabic-ch.space/live/015/index.m3u8
-#EXTINF:0 ,ALGERIE TV1
-http://apk.arabic-ch.space/live/016/index.m3u8
-#EXTINF:0 ,ELHADDAFTV
-http://apk.arabic-ch.space/live/022/index.m3u8
-#EXTINF:0 ,ELWATANIYA
-http://apk.arabic-ch.space/live/068/index.m3u8
-#EXTINF:0 ,BARAEEM
-http://apk.arabic-ch.space/live/070/index.m3u8
-#EXTINF:0 ,JEEM
-http://apk.arabic-ch.space/live/075/index.m3u8
-#EXTINF:0 ,ALGERIE TV8
-http://apk.arabic-ch.space/live/090/index.m3u8
-#EXTINF:0 ,ENNAHARTV
-http://apk.arabic-ch.space/live/092/index.m3u8
-#EXTINF:0 ,CANALJ
-http://apk.arabic-ch.space/live/110/index.m3u8
-#EXTINF:0 ,NICK JR
-http://apk.arabic-ch.space/live/121/index.m3u8
-#EXTINF:0 ,ACTION
-http://apk.arabic-ch.space/live/125/index.m3u8
-#EXTINF:0 ,FRANCE2
-http://apk.arabic-ch.space/live/143/index.m3u8
-#EXTINF:0 ,FRANCE3
-http://apk.arabic-ch.space/live/144/index.m3u8
-#EXTINF:0 ,FRANCE4
-http://apk.arabic-ch.space/live/145/index.m3u8
-#EXTINF:0 ,FRANCE5
-http://apk.arabic-ch.space/live/146/index.m3u8
-#EXTINF:0 ,W9
-http://apk.arabic-ch.space/live/150/index.m3u8
-#EXTINF:0 ,6TER
-http://apk.arabic-ch.space/live/156/index.m3u8
 #EXTINF:-1 group-title="NEWS" ,3CAT INFO
 https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,ABU DHABI EMARAT
