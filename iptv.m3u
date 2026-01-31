@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 group-title="NEWS" ,3CAT INFO
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,QANAT9
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,BADEN TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,EBS1
+http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+#EXTINF:0 group-title="UNORGANIZED" ,GAME+
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,EURO D
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,GO2TRAVEL
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,HSE
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,MBC1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,RMC LIFE
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,TG NOBRA
+https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,TINY POP
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC" ,ABU DHABI EMARAT
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
 #EXTINF:-1 group-title="ARABIC" ,AJMAN
@@ -393,6 +413,8 @@ https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES & SERIES" tvg-id="ScreamIN.fr@SD" ,Zylo ScreamIN
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" ,3CAT INFO
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
 #EXTINF:-1 group-title="NEWS" ,24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 group-title="NEWS" ,ABC NEWS
@@ -583,27 +605,57 @@ https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="Strongman.us@UK" ,Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 ,QANAT9
-https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
-#EXTINF:0 ,BADEN TV
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:0 group-title="SPORTS" ,TENIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:0 ,EBS1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-#EXTINF:0 ,GAME+
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:0 ,EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_3_750/playlist.m3u8
-#EXTINF:0 ,GO2TRAVEL
-https://go2thls.wns.live/hls/stream.m3u8
-#EXTINF:0 ,HSE
-https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
-#EXTINF:0 ,MBC1
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
-#EXTINF:0 ,RMC LIFE
-https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
-#EXTINF:0 ,TG NOBRA
-https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
-#EXTINF:0 ,TINY POP
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+#EXTINF:0 group-title="UNORGANIZED" ,DIGIMON
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/617bae1d69bca3000729561e/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=8bd8d572-8867-49e2-bbee-1b66da20ecbe&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=fe69c4b1-a9f7-45c4-9d35-187176f39a6f&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,L'EQUIPE
+https://jmp2.uk/stvp-FR200016Y5
+#EXTINF:0 group-title="UNORGANIZED" ,LES ANNEES FAC
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afae68a7fc50000737186d/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=411b3fa2-cf28-468f-8d72-d0c217ef867e&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=8bc5d9c9-63ee-4d13-9e68-113feeefb455&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,OLIVE ET TOM
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/662a63275a402e00086bc8a5/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=ba01ec85-0c9c-4ed6-8ec9-911a9cfb05b9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=8a070bac-6217-4ed1-a5ae-a658be604e8a&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,ONE PIECE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6380c94947c72b0007ee9a13/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=4135c5c1-cc79-4b15-be1f-e95d71948859&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=2396ded6-ff06-41cf-894a-885afce9d7f9&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV ANIMAUX
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=5a0d32ea-9eef-428d-95de-3d14abb54463&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=59ee8842-78fb-4bcb-a5ed-a4cfd92c412a&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV AVENTURE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=f102ecb8-e87d-47c0-b38e-7bb9ea4e8827&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=704e58b3-5f40-47f3-808e-2d9540679679&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV CUISINE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=3006463b-35b9-4198-9537-8aecc1036348&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=6c367314-00ab-4d36-a5f2-cff23ef40226&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV HISTOIRE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611e771e2f5f180007002224/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=db9a2273-9fa2-4fdd-8b8d-77e974f5e375&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=10ad1d80-fa2b-45e0-b3cb-1d33d396ca47&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV JUNIOR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=5dc8650e-2a5e-4fe6-a8fb-8916254ef195&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=8449b94c-bcaa-42c2-9550-a78d4928dc8b&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PLUTOTV RETRO TOON
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/611e6a9b4bb5790007a6f0f8/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=591a1219-4c40-43e3-939e-7e5cad87ae12&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=9780f47d-90fa-4a18-bd83-4fafb1ae1f49&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,PECHE A HAUTE RISQUE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/678f894ef5c74bff95c20a7f/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=d2e996df-c5fa-471e-9248-ca94ed08c02c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=cf1bcb63-d345-4a37-9c29-117c2e95edb7&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,RMC ALERT SECOURS
+https://jmp2.uk/stvp-FR30000271
+#EXTINF:0 group-title="UNORGANIZED" ,RMC STORY
+https://jmp2.uk/stvp-FRBD41000097I
+#EXTINF:0 group-title="UNORGANIZED" ,SONY ONE ACTION HITS
+https://jmp2.uk/stvp-FR3000139Z
+#EXTINF:0 group-title="UNORGANIZED" ,WALKER TEXAS RANGER
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa749ac7f3200078adb40/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=56b972f0-2cc4-433c-a014-5805598a5e63&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=1bc2661e-4961-46c5-812f-a58734d2a606&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,RMC WOW
+https://jmp2.uk/stvp-FR300001M1
+#EXTINF:0 group-title="UNORGANIZED" ,SUPERTOON
+https://jmp2.uk/stvp-FRBD5100002NL
+#EXTINF:0 group-title="UNORGANIZED" ,TV5 MONDE VOYAGE
+https://jmp2.uk/stvp-FR1800004EP
+#EXTINF:0 group-title="UNORGANIZED" ,VOYAGE SAVEURS
+https://jmp2.uk/stvp-FR3600005C7
+#EXTINF:0 group-title="UNORGANIZED" ,ZONE INTERDITE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/66f55cf2483d460008f68746/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=67773273-a329-4ff4-aeaa-da3ee68217f3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=e3f9f3d0-6777-4ab7-a127-1b6ea7f9b490&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,INITIATION AU VOYAGE
+https://jmp2.uk/stvp-FR3700004HZ
+#EXTINF:0 group-title="UNORGANIZED" ,J'IRAI DORMIR CHEZ VOUS
+https://jmp2.uk/stvp-FRBD4800001P4
+#EXTINF:0 group-title="UNORGANIZED" ,ALERT COBRA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62f3e4bc08f5ec000744f552/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=4a55c82c-3d09-450a-a009-b2ef10f5e295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=e068ddc9-ee76-457b-94ae-2e26248d284e&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,C'EST PAS SORCIER
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=fe4ef4dc-d2e3-4e13-b915-6394fc3147b7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=aa5d186f-2b8f-4745-a559-10d465b8845b&userId=&serverSideAds=true
+#EXTINF:0 group-title="UNORGANIZED" ,ECHO DU MONDE
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99994449&ads.xumo_streamId=99994449&ads.channelId=99994449&ads.ad_tag_id=140647&ads.csid=lgchannels_fr_echosdumonde_ssai&ads.channelName=indigeniusechosdumonde_fr&ads.xumo_contentName=IndigeniusFrance&ads.xumo_contentId=4231&ads.xumo_providerName=IndigeniusFrance&ads.xumo_providerId=4231&ads.content_category=IAB1-7&ads.content_genre=television&ads.content_language=fr&ads.content_rating=tv-14&ads.coppa=0&ads.livestream=0&ads.prodq=1&ads.did=[IFA]&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]
